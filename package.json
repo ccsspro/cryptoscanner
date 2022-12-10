@@ -4,7 +4,7 @@
   "description": "Sample implementation of TradingView Charting Library JS API for Binance exchange",
   "dependencies": {
     "cors": "^2.8.4",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "express-http-proxy": "^1.2.0",
     "morgan": "^1.9.0"
   },
